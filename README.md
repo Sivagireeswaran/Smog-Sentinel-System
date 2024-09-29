@@ -10,3 +10,4 @@ This project calculates air quality index (AQI) using various pollutant levels l
 
 ## Requirements
 Install the dependencies using:
+pip install -r requirements.txt
